@@ -2,7 +2,7 @@
 
 ## Project Overview
  
-This project aims to develop an image classification model to detect COVID-19 from chest X-ray images using a pre-trained ResNet-18 model in PyTorch. The goal is to classify the X-ray images into one of three categories: Normal, Viral Pneumonia, or COVID-19. The main objective is to develop a working image classification model capable of predicting the correct class for a given chest X-ray scan with a reasonable level of accuracy. Additionally, this project is a hands-on implementation, focusing on the practical aspects of building the model, rather than the theoretical concepts behind Convolutional Neural Networks.
+This project aims to develop an image classification model to detect COVID-19 from chest X-ray images using a pre-trained ResNet-18 model in PyTorch. It classifies the X-ray images into one of three categories: Normal, Viral Pneumonia, or COVID-19. The main objective is to develop a working image classification model capable of predicting the correct class for a given chest X-ray scan with a reasonable level of accuracy. Additionally, this project is a hands-on implementation, focusing on the practical aspects of building the model, rather than the theoretical concepts behind Convolutional Neural Networks.
 
 ## Dataset
 
